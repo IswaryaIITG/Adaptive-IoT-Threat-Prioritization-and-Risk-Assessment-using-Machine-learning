@@ -1,10 +1,3 @@
-"""
-Adaptive IoT Threat Prioritization and Risk Assessment Using Machine Learning
-Detects IoT attacks, scores adaptive risk, ranks threats, explains via LIME,
-recommends mitigations, and reports network health -- all in one Streamlit app.
-Run: streamlit run main.py
-"""
-
 import os
 import io
 import joblib
